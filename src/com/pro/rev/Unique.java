@@ -72,6 +72,7 @@ public class Unique {
         Arrays.stream(strings).forEach((k)->{
             System.out.println("the value is "+k);
 
+            System.out.println("heellllll");
 
 
 

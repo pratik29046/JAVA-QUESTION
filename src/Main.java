@@ -1,4 +1,5 @@
 import com.pro.rev.*;
+import com.pro.rev.collection.HashMaps;
 
 import java.util.Arrays;
 import java.util.HashMap;
@@ -199,8 +200,11 @@ public class Main {
             Temp2 temp2= new Temp2();
             temp2.hello();
 */
-            Unique unique =new Unique();
-            unique.uni2();
+            /*Unique unique =new Unique();
+            unique.uni2();*/
+
+            HashMaps hashMaps = new HashMaps();
+            hashMaps.maps();
 
 
 
